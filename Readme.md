@@ -1,5 +1,4 @@
 #TP GIT
-- Amaro Mara
-- Casaz Candela
-- Gorreta Carola
-[Script](script.js)
+-Amaro Mara
+-Casaz Candela
+-Gorreta Carola
